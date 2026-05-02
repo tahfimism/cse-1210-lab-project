@@ -4,7 +4,7 @@
 **Problem Statement:**
 **Develop a C programming project or problem solution system as a beginner to gain more C programming skills using the following open-ended features:**
 
----
+
 
 ### Open-ended features:
 1. You should use at least **two** user-defined functions with "call by value" and "call by reference".
@@ -13,7 +13,7 @@
 4. You should use 'FILE' to save and update data.
 5. You also may choose any data types, operators, and expressions.
 
----
+
 
 ### Result analysis:
 1. Analyze the time required to complete the whole project.
